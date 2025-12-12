@@ -1,9 +1,9 @@
 # Ignore everything
 *
 
-# But do NOT ignore these folders
+# Except wp-content
 !wp-content/
 !wp-content/**
 
-# Keep the .gitignore file itself
+# Keep .gitignore itself
 !.gitignore
