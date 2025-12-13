@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Except wp-content
+!wp-content/
+!wp-content/**
+
+# Allow .gitignore itself
+!.gitignore
+
