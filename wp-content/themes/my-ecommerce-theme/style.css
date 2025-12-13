@@ -63,8 +63,9 @@ header {
     background-color: var(--nav-bg-color);
     width: 100%;
     height: auto;
+    background-color: pink;
     position: fixed;
-    top: 6%;
+    top: 12px;
     left: 0;
 }
 
