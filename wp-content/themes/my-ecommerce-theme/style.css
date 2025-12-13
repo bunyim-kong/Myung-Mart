@@ -63,7 +63,6 @@ header {
     background-color: var(--nav-bg-color);
     width: 100%;
     height: auto;
-    background-color: pink;
     position: fixed;
     top: 6%;
     left: 0;
@@ -89,7 +88,6 @@ header {
 .nav-logo {
     width: 120px;
     height: 100%;
-    background-color: pink;
 }
 
 .nav-logo img {
